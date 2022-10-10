@@ -2,7 +2,7 @@
 //using System.Collections.Generic;
 //using System.Linq;
 //using System.Text;
-//using System.Threading.Tasks; 
+//using System.Threading.Tasks;
 
 //namespace construction_and_tostring_method
 //{
@@ -15,7 +15,7 @@
 //            this.id = id;
 //            this.fees = fees;
 //            this.name = name;
-//        }   
+//        }
 //        public string Print()
 //        {
 //            return $"{id}{name}{fees}";

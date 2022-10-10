@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "construction and tostring method", "construction and tostring method\construction and tostring method.csproj", "{CC012052-4CA1-47BF-B673-9E6DCC461AB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC012052-4CA1-47BF-B673-9E6DCC461AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC012052-4CA1-47BF-B673-9E6DCC461AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC012052-4CA1-47BF-B673-9E6DCC461AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC012052-4CA1-47BF-B673-9E6DCC461AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7E5F21A-A135-4E73-95BC-E1FF359A4CF6}
+	EndGlobalSection
+EndGlobal
